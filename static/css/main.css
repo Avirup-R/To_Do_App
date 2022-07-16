@@ -1,0 +1,30 @@
+body{
+    font-family:'Times New Roman', Times, serif
+    /* background-color: aqua; */
+}
+div{
+    align-self: center;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+td, tr{
+    padding-left:50px;
+    padding-right: 50px;
+    padding-top: 10px;
+}
+th{
+    padding-left:50px;
+    padding-right: 50px;
+    /* padding-top: 10px;  */
+}
+table, tr, td{
+    border: 1px solid;
+}
+
+form{
+    padding-top: 50px;
+    padding-left: 320px;
+}
